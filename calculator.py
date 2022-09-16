@@ -12,3 +12,7 @@ print(f'Substraction of {a} and {b} is {substraction(a,b)}')
 def multiplication(a,b):
     return a*b
 print(f'Multiplication of {a} and {b} is {multiplication(a,b)}')
+
+def division(a,b):
+    return a/b
+print(f'Division of {a} and {b} is {division(a,b)}')
