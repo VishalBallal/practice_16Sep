@@ -1,0 +1,6 @@
+a=20
+b=14
+
+def addition(a,b):
+    return a+b
+print(f'Addition of {a} and {b} is {addition(a,b)}')
